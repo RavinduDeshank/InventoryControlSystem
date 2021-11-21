@@ -14,5 +14,6 @@ namespace InventoryControlSystem.Models
         }
 
         public DbSet<ProductCategory>ProductCategories { get; set; }
+        public DbSet<Product> Product { get; set; }
     }
 }

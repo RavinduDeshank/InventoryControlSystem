@@ -1,0 +1,374 @@
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.exe
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.deps.json
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.json
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.dev.json
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ref\InventoryControlSystem.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfoInputs.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfo.cs
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.Manifest.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.xml
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\scopedcss\bundle\InventoryControlSystem.styles.css
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.RazorTargetAssemblyInfo.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CopyComplete
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\ref\InventoryControlSystem.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.pdb
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.genruntimeconfig.cache
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chamudi weerawickram\source\repos\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.AssemblyReference.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.json
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.exe
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.deps.json
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.json
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.dev.json
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ref\InventoryControlSystem.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Humanizer.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfoInputs.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfo.cs
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CoreCompileInputs.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.Manifest.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.xml
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\scopedcss\bundle\InventoryControlSystem.styles.css
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.RazorTargetAssemblyInfo.cache
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CopyComplete
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\ref\InventoryControlSystem.dll
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.pdb
+D:\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.genruntimeconfig.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.exe
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.deps.json
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.json
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.runtimeconfig.dev.json
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ref\InventoryControlSystem.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\InventoryControlSystem.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.AssemblyReference.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfoInputs.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.AssemblyInfo.cs
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.Manifest.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\staticwebassets\InventoryControlSystem.StaticWebAssets.xml
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\scopedcss\bundle\InventoryControlSystem.styles.css
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.csproj.CopyComplete
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\ref\InventoryControlSystem.dll
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.pdb
+C:\Users\Ravindu Deshan\Desktop\Project\InventoryControlSystem\InventoryControlSystem\obj\Debug\net5.0\InventoryControlSystem.genruntimeconfig.cache
